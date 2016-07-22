@@ -2,31 +2,31 @@
   {
     "remote": "github"
     "repository": "scanno/android_device_sony_common",
-    "target_path": "device/sony/common"
+    "target_path": "device/sony/common",
     "revision": "android-6.0"
   },
   {
     "remote": "github"
     "repository": "scanno/android_kernel_sony_msm8x60",
-    "target_path": "kernel/sony/msm8x60"
+    "target_path": "kernel/sony/msm8x60",
     "revision": "android-6.0"
   },
   {
     "remote": "github"
     "repository": "CyanogenMod/android_hardware_sony_DASH",
-    "target_path": "hardware/sony/DASH"
+    "target_path": "hardware/sony/DASH",
     "revision": "cm-13.0"
   },
   {
     "remote": "omnirom"
     "repository": "android_hardware_sony_thermanager",
-    "target_path": "hardware/sony/thermanager"
+    "target_path": "hardware/sony/thermanager",
     "revision": "android-6.0"
   },
   {
     "remote": "github"
     "repository": "CyanogenMod/android_external_stlport",
-    "target_path": "external/stlport"
+    "target_path": "external/stlport",
     "revision": "cm-13.0"
   }
 ]
